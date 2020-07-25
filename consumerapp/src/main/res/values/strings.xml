@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Diikuti</string>
+
+    <string name="search">Cari</string>
+</resources>
